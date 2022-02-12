@@ -2,7 +2,7 @@
 
 ## I'm a iOS Engineer, Project Manager, and Computer Science Mentor
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything : Computer Vision, Machine Learning, Augmented Reality, etc 
 - 🥅 2022 Goals: Create more helpful apps, and collaborate more with many people
 - ⚡ Fun fact: I love to create 3D Model, and cardistry
 
