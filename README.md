@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning everything : Computer Vision, Machine Learning, Augmented Reality, etc 
 - 🥅 2022 Goals: Create more helpful apps, and collaborate more with many people
 - ⚡ Fun fact: I love to create 3D Model, and cardistry
-
+<!-- 
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/difa-naufal-a400b3187/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/difa-naufal-a400b3187/)
-
+ -->
 <br />
 <br />
 
