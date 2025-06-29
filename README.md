@@ -1,6 +1,6 @@
 # Hi there, My name is Difa N Pratama, but you can call me Bysonz 👋
 
-## I'm a iOS Engineer, Project Manager, and Computer Science Mentor
+## I'm a Full-Stack Developer, Mobile Engineer, Project Manager, and Computer Science Mentor
 
 - 🌱 I’m currently learning everything : Computer Vision, Machine Learning, Augmented Reality, etc 
 - 🥅 2022 Goals: Create more helpful apps, and collaborate more with many people
