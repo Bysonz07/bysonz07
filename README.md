@@ -6,7 +6,7 @@
 
 ---
 
-> 🌐 **Interactive Portfolio:** **[bysonz07.github.io](https://bysonz07.github.io)** — *Click to view my live portfolio website featuring dynamic dark/light themes, live skill filters, local clock, and technical walkthrough modals.*
+> 🌐 **Interactive Portfolio:** **[bysonz07.github.io](https://bysonz07.github.io/portfolio)** — *Click to view my live portfolio website featuring dynamic dark/light themes, live skill filters, local clock, and technical walkthrough modals.*
 
 ---
 
