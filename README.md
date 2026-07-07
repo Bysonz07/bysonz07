@@ -10,8 +10,7 @@ Passionate about cross-platform architecture, AI-powered mobile products, and in
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+This repository contains the source code for my professional developer portfolio page, hosted live at [bysonz07.github.io](https://bysonz07.github.io). 
 
 <br />
 <br />
